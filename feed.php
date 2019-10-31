@@ -1,0 +1,3 @@
+<?
+HEADER("LOCATION: index.php");
+?>
